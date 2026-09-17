@@ -17,7 +17,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**BLE Indoor Positioning**](https://tdbao-brian.work/en/projects/ble-indoor-positioning) | A beacon on a two-layer PCB I designed in KiCad around a bare radio module. RSSI reference calibrated from 370 field measurements. | C · EFR32BG22 · nRF52840 · KiCad |
-| [**Cadebot**](https://tdbao-brian.work/en/projects/cadebot) | Vietnamese voice assistant for coffee shops. Blocks 14 of 15 out-of-scope questions in 0.096 s without waking the language model. | FastAPI · Qwen2.5-3B + LoRA · BGE-M3 · Qdrant |
+| [**Cruzr**](https://tdbao-brian.work/en/projects/cruzr) | Vietnamese voice ordering assistant on a UBTECH Cruzr service robot. Blocks 14 of 15 out-of-scope questions in 0.096 s without waking the language model. | FastAPI · Qwen2.5-3B + LoRA · BGE-M3 · Qdrant |
 | [**Learning English**](https://ielts.tdbao-brian.work) | IELTS study platform, live and open. 52 lessons and 30 practice tests served from plain Markdown. | Next.js 15 · Prisma · PostgreSQL |
 | [**VN-Index Forecasting**](https://tdbao-brian.work/en/projects/vnindex-forecasting) | Forecasting VN-Index hourly candles with an LSTM, against ARIMA and Prophet baselines. | PyTorch · pandas · statsmodels |
 
